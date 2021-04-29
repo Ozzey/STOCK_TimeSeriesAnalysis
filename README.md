@@ -26,3 +26,7 @@ ngrok http https://localhost:8443
 ****************************************************
 5. Run the web app through streamlit:
 !streamlit run main.py
+****************************************************
+
+Live Version of the web app can be found here:
+https://share.streamlit.io/ozzey/stocks_price_predictor_module2/main/main.py
